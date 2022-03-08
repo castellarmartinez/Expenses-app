@@ -33,14 +33,14 @@ Add a new expense by providing the name, amount and date.
 
 Select the year you want to examine. 
 
-## Build with 🛠️
+## Build with
 
 - [Node.js](https://nodejs.org/es/docs/) - Programming Enviroment for JavaScript
 - [React](https://reactjs.org/) - JavaScript Library
 - [CSS5](https://www.w3.org/Style/CSS/) - Style Sheet Language
 
 
-## Authors ✒️
+## Authors
 
 **David Castellar Martínez** [[GitHub](https://github.com/castellarmartinez/)]
 [[LinkedIn](https://www.linkedin.com/in/castellarmartinez/)]
